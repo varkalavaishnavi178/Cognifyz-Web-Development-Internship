@@ -39,4 +39,4 @@ This repository contains the web development tasks completed during my internshi
 To practice and demonstrate my HTML, CSS, and JavaScript skills through practical web development tasks.
 
 ## Author
-Vaishnavi
+Varkala Vaishnavi
